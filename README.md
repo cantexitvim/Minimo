@@ -3,7 +3,7 @@
 Simple landing page for practice.
 
 ## Demo
-https://breeze-git.github.io/Minimo/
+https://cantexitvim.github.io/Minimo/
 
 ## Technologies
 - HTML
